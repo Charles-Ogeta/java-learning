@@ -1,2 +1,2 @@
-# java-learning
-java learning and practice projects 
+# C++
+C++ learning and practice projects 
